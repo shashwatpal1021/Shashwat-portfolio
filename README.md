@@ -104,3 +104,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 Would you like this customized with your project's **name**, **live URL**, or **tech stack**? I can personalize it in seconds.
 
+
+deployed linke : https://shashwat-portfolio-korcx372p-shashwat-pals-projects.vercel.app/
