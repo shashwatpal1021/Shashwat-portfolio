@@ -81,8 +81,16 @@ export const PROJECTS = [
     id: "1",
     title: "Rentify - Rentall App",
     description: `Rentify is a fully functional rentall app designed to simplify the rental process for both landlord and tenants.`,
-    image: "../../assests/images/project-1.png",
-    tags: ["Next.js", "React.js", "Tailwind CSS", "Node.js", "MongoDB", "NexAuth"],
+    image:
+      "https://drive.google.com/file/d/1wZ-m2sgb-sA2qyOl-KAxjBzVi_ER5pGr/view?usp=sharing",
+    tags: [
+      "Next.js",
+      "React.js",
+      "Tailwind CSS",
+      "Node.js",
+      "MongoDB",
+      "NexAuth",
+    ],
     demoLink: "https://rentify-app-ten.vercel.app/",
     sourceLink: "https://github.com/shashwatpal1021/rentify_app",
     featured: true,
@@ -90,10 +98,20 @@ export const PROJECTS = [
   {
     id: "2",
     title: "Issue Tracker App",
-    description: "An Issue Tracker App is a tool designed to help teams to manage and track issues, bugs, or task within a project.",
+    description:
+      "An Issue Tracker App is a tool designed to help teams to manage and track issues, bugs, or task within a project.",
     image: "../../assests/images/issue-tracker-2.png",
-    tags: ["Next.js", "React.js", "TypeScript", "Postgresql", "Shadcn", "Tailwind CSS", "NexAuth"],
-    demoLink: "https://issue-tracker-umber-delta.vercel.app/",
+    tags: [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "Postgresql",
+      "Shadcn",
+      "Tailwind CSS",
+      "NexAuth",
+    ],
+    demoLink:
+      "https://drive.google.com/file/d/113Ma0O2KR5hvbwa0gGY2UYCmUGGHATXQ/view?usp=sharing",
     sourceLink: "https://github.com/shashwatpal1021/issue-tracker",
     featured: true,
   },
@@ -105,7 +123,8 @@ export const EXPERIENCES = [
     position: "Senior Frontend Developer",
     company: "Concentrix",
     duration: "Jan 2025 - Present",
-    description: "Led the frontend development team in creating responsive, user-friendly web applications. Implemented modern React architecture and design systems.",
+    description:
+      "Led the frontend development team in creating responsive, user-friendly web applications. Implemented modern React architecture and design systems.",
     achievements: [
       "Reduced load time by 40% through code optimization",
       "Implemented CI/CD pipeline for frontend deployments",
@@ -117,7 +136,8 @@ export const EXPERIENCES = [
     position: "Full Stack Developer",
     company: "HTS Ltd.",
     duration: "2023 - 2025",
-    description: "Developed full-stack web applications using React, Node.js, and Supabase. Collaborated with design and product teams to deliver feature-rich applications.",
+    description:
+      "Developed full-stack web applications using React, Node.js, and Supabase. Collaborated with design and product teams to deliver feature-rich applications.",
     achievements: [
       "Created a real-time dashboard used by over 10,000 users",
       "Integrated docusign systems and improved conversion rates by 25%",
@@ -129,7 +149,8 @@ export const EXPERIENCES = [
     position: "Full Stack Developer",
     company: "Johnson Controls",
     duration: "2022 - 2023",
-    description: "Combined design and development skills to create visually appealing and functional web experiences. Specialized in interactive prototypes and animations.",
+    description:
+      "Combined design and development skills to create visually appealing and functional web experiences. Specialized in interactive prototypes and animations.",
     achievements: [
       "Redesigned main product interface resulting in 30% increase in user engagement",
       "Created company design system and component library",

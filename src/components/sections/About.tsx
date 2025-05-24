@@ -15,7 +15,7 @@ export function About() {
             className="slide-in-left rounded-lg overflow-hidden shadow-xl"
           >
             <img
-              src="../../../assests/images/IMG_20220928_101056_392.jpg"
+              src="https://drive.google.com/file/d/1sRPE5QpGCWjFw4dsoVR9amLv0xPU0Nfy/view?usp=sharing"
               alt="Shashwat Pal"
               className="w-full h-auto object-cover aspect-[4/5]"
             />
@@ -60,9 +60,12 @@ export function About() {
             <div className="mt-8 grid grid-cols-2 gap-6">
               <div>
                 <h4 className="font-medium mb-2">Education</h4>
-                <p className="text-foreground/70">B.Tech in Information Technology</p>
                 <p className="text-foreground/70">
-                  REC (Rajkiya Engineering College), Azamgarh, Uttar Pradesh, India
+                  B.Tech in Information Technology
+                </p>
+                <p className="text-foreground/70">
+                  REC (Rajkiya Engineering College), Azamgarh, Uttar Pradesh,
+                  India
                 </p>
               </div>
 
