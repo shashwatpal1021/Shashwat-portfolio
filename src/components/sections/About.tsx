@@ -15,9 +15,9 @@ export function About() {
             className="slide-in-left rounded-lg overflow-hidden shadow-xl"
           >
             <img
-              src="https://drive.google.com/file/d/1sRPE5QpGCWjFw4dsoVR9amLv0xPU0Nfy/view?usp=sharing"
-              alt="Shashwat Pal"
-              className="w-full h-auto object-cover aspect-[4/5]"
+              src="assests\images\IMG_20220928_101056_392.jpg"
+              alt="About Me"
+              className="w-full h-auto object-cover rounded-lg"
             />
           </div>
 

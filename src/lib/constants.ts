@@ -81,8 +81,7 @@ export const PROJECTS = [
     id: "1",
     title: "Rentify - Rentall App",
     description: `Rentify is a fully functional rentall app designed to simplify the rental process for both landlord and tenants.`,
-    image:
-      "https://drive.google.com/file/d/1wZ-m2sgb-sA2qyOl-KAxjBzVi_ER5pGr/view?usp=sharing",
+    image: "assests/images/project-1.png",
     tags: [
       "Next.js",
       "React.js",
@@ -100,7 +99,7 @@ export const PROJECTS = [
     title: "Issue Tracker App",
     description:
       "An Issue Tracker App is a tool designed to help teams to manage and track issues, bugs, or task within a project.",
-    image: "../../assests/images/issue-tracker-2.png",
+    image: "assests/images/issue-tracker-2.png",
     tags: [
       "Next.js",
       "React.js",
@@ -110,8 +109,7 @@ export const PROJECTS = [
       "Tailwind CSS",
       "NexAuth",
     ],
-    demoLink:
-      "https://drive.google.com/file/d/113Ma0O2KR5hvbwa0gGY2UYCmUGGHATXQ/view?usp=sharing",
+    demoLink: "https://issue-tracker-umber-delta.vercel.app/",
     sourceLink: "https://github.com/shashwatpal1021/issue-tracker",
     featured: true,
   },
