@@ -81,7 +81,7 @@ export const PROJECTS = [
     id: "1",
     title: "Rentify - Rentall App",
     description: `Rentify is a fully functional rentall app designed to simplify the rental process for both landlord and tenants.`,
-    image: "assests/images/project-1.png",
+    image: "src/assests/images/project-1.png",
     tags: [
       "Next.js",
       "React.js",
@@ -99,7 +99,7 @@ export const PROJECTS = [
     title: "Issue Tracker App",
     description:
       "An Issue Tracker App is a tool designed to help teams to manage and track issues, bugs, or task within a project.",
-    image: "assests/images/issue-tracker-2.png",
+    image: "src/assests/images/issue-tracker-2.png",
     tags: [
       "Next.js",
       "React.js",

@@ -15,7 +15,7 @@ export function About() {
             className="slide-in-left rounded-lg overflow-hidden shadow-xl"
           >
             <img
-              src="assests\images\IMG_20220928_101056_392.jpg"
+              src="src\assests\images\IMG_20220928_101056_392.jpg"
               alt="About Me"
               className="w-full h-auto object-cover rounded-lg"
             />
